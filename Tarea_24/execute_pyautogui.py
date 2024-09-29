@@ -1,7 +1,5 @@
-#equipo
-#Alondra Castillo Gonzalez
-#Erandy Yamileth Escanamé Balderas
-#Maurilio Uriel García Culebro
+"""Ejercicio: Convertir un Script de Python con PyAutoGUI a un Ejecutable con py2exe.
+-Ajuntar explicación de lo que realiza el archivo setup.py""""
 
 import datetime
 import subprocess
