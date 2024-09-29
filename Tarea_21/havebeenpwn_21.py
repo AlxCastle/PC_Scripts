@@ -1,4 +1,4 @@
-# Usar la API de Have I been pwn?
+# Uso de la API de Have I been pwned con manejo de errores y creación de reportes
 import requests
 import json
 import logging
