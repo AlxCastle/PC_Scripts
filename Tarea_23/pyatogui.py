@@ -1,3 +1,6 @@
+"""Ejercicio: Automatización de Captura de Pantalla y Registro de Procesos en Python.
+Se adjunta el ejemplo del resultado, un archivo txt y png."""
+
 import pyautogui
 import datetime
 import subprocess
