@@ -1,6 +1,4 @@
-"""Erandy Yamileth Escaname Balderas
-Maurilio Uriel Garcia Culebro
-Alondra Castillo Gonzalez"""
+"""Ejercicio: Monitoreo de Servicios del Sistema, ejecutando un script de PowerShell desde uno de Python y Registro en Excel."""
 
 import subprocess
 import openpyxl
