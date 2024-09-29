@@ -1,3 +1,5 @@
+"""Ejercicio: Monitoreo de Conexiones de Red y Análisis de Seguridad.
+-El script de Python debe ejecutar el script de Bash y generar un reporte si hay conexiones sospechosas."""
 
 import subprocess 
 import re
