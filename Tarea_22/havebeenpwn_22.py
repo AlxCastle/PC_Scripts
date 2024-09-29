@@ -1,3 +1,8 @@
+"""Uso de la Api Have I Been Pwned:
+-Implementar el módulo argparse para manejar la entrada de parámetros desde la línea de comandos. 
+-Generar un reporte en un archivo de texto con la lista de filtraciones encontradas.
+-Verificar la Versión de Python."""
+
 import sys
 import requests 
 import json 
